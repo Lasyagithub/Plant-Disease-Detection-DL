@@ -1,5 +1,5 @@
 """
-Plant Disease Detection using Deep Learning :)🌿
+Plant Disease Detection using Deep Learning 🌿
 - Uses Convolutional Neural Networks (CNN) with VGG16.
 - Implements Image Augmentation and Transfer Learning.
 - Achieves ~97% accuracy on the PlantVillage dataset.
